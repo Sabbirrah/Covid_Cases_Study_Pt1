@@ -1,4 +1,4 @@
--- Checking the tables ater connecting them to the server 
+-- Checking the tables after connecting them to the server 
 
 select *
 From PortfolioProject1..CovidDeaths
