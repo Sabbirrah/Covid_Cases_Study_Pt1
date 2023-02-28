@@ -1,5 +1,7 @@
-# SQL-Project-1
+# Exploring and quering different funcionts 
+
 This project has been done using SQL in SSMS for the following queries: 
+
 - Data Exploration
 - Converting Format
 - Join Table
