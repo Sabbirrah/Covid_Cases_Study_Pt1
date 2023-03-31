@@ -1,4 +1,4 @@
-Project Title: COVID Data Analysis using SQL in SSMS
+# Project Title: COVID Data Analysis using SQL in SSMS
 
 Description: In this project, we explored and analyzed data related to COVID-19 cases. We utilized SQL in SSMS to perform various queries such as data exploration, format conversion, table join, aggregation functions, CTE creation, and temporary table creation.
 
